@@ -8,7 +8,7 @@
  * @package  Core
  */
 
-class IndexController extends Zend_Controller_Action
+class ContactController extends Zend_Controller_Action
 {
 	function indexAction()
 	{
